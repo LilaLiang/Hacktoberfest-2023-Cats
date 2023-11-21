@@ -1,7 +1,5 @@
 # Hacktoberfest-2023-Cats
 
-Thanks to everyone for their contributions.
-
 Participate in Hacktoberfest and share cool photos of your cat(s)! A star will help others find this repository. Cheers!
 
 ## Steps
